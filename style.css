@@ -1,0 +1,710 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.img-1{
+    width: 272px;
+    margin-left: 250px;
+    margin-top: 20.5px;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: #4D719B;
+    font-size: 15px;
+    font-family: "Roboto Mono", monospace;
+}
+a:hover{
+    color: black;
+}
+.a-1{
+    margin-left: 600px;
+    margin-top: -65px;
+    position: absolute;
+    
+}
+.a-2{
+    position: absolute;
+    margin-left: 710px;
+    margin-top: -65px;
+}
+.a-3{
+    margin-left: 850px;
+    position: absolute;
+    margin-top: -65px;
+}
+.a-4{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -40px;
+}
+.a-5{
+    margin-left: 850px;
+    position: absolute;
+    margin-top: -40px;
+}
+.bt-1{
+    width: Fixed (218px)px;
+   height: Fixed (44px)px;
+padding: 10px 24px 10px 24px;
+gap: 8px;
+border-radius: 26px;
+border: 3px;
+opacity: 0px;
+border: 1px solid orange;
+background-color: white;
+color: orange;
+font-weight: bold;
+position: absolute;
+margin-left: 1150px;
+margin-top: -55px;
+
+}
+.img-2{
+    width: 1465px;
+    height: 686px;
+  position: absolute;
+    margin-top: 50px;
+
+
+}
+.img-3{
+    position: absolute;
+   margin-top: 140px;
+    width: 731px;
+    height: 597px;
+    margin-left: 600px;
+
+}
+.img-4{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 350px;
+}
+.h1-1{
+    font-family: "Roboto Mono", monospace;
+    font-size: 56px;
+    color: black;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.h4-1{
+    font-family: "Roboto Mono", monospace;
+    color: black;
+    position: absolute;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 220px;
+}
+.p-1{
+    font-size: 16px;
+    position: absolute;
+    color: black;
+    font-family: "Roboto Mono", monospace;
+    margin-top: 350px;
+    margin-left: 100px ;
+}
+.bt-3{
+    width: Fixed (218px)px;
+   height: Fixed (44px)px;
+padding: 10px 24px 10px 24px;
+gap: 8px;
+border-radius: 26px;
+border: 3px;
+opacity: 0px;
+font-weight: bold;
+position: absolute;
+border: 2px  solid white;
+background-color: orange;
+color: white;
+margin-top: 560px;
+margin-left: 100px;
+}
+.bt-2{
+    width: Fixed (218px)px;
+   height: Fixed (44px)px;
+padding: 10px 24px 10px 24px;
+gap: 8px;
+border-radius: 26px;
+border: 3px;
+opacity: 0px;
+font-weight: bold;
+position: absolute;
+border: 2px  solid white;
+background-color: orange;
+color: white;
+margin-top: 500px;
+margin-left: 100px;
+}
+.img-5{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 800px;
+}
+.img-6{
+    position: absolute;
+    width: 1465px;
+    margin-top: 1000px;
+    height: 600px;
+    
+}
+.img-7{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 1050px;
+}
+.card-1{
+    width: 370.67px;
+    height: 390px;
+    
+    position: absolute;
+    margin-top: 1200px;
+    margin-left: 50px;
+    background: linear-gradient(51.01deg, #4399FF 0%, #1B83FF 71.42%);
+
+
+
+}
+.card-2{
+    width: 370.67px;
+    height: 390px;
+        position: absolute;
+    margin-top: 1200px;
+    margin-left: 50px;
+    background: linear-gradient(51.01deg, #4399FF 0%, #1B83FF 71.42%);
+    margin-left: 500px;
+
+
+
+}
+.card-3{
+    width: 370.67px;
+    height: 390px;
+        position: absolute;
+    margin-top: 1200px;
+    margin-left: 50px;
+    background: linear-gradient(51.01deg, #4399FF 0%, #1B83FF 71.42%);
+    margin-left: 950px;
+
+
+}
+.row{
+    
+    gap: 20px;
+}
+.p-2{
+    font-size: 13px;
+    color: white;
+    font-family: "Roboto Mono", monospace;
+    margin-top: 40px;
+    margin-left: 20px;
+    position: absolute;
+}
+.h1-2{
+    color: white;
+    font-size: 22px;
+    font-weight: lighter;
+    font-family: "Roboto Mono", monospace;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.img-8{
+    width:339px;
+    height: 168px;
+    margin-left: 20px;
+    margin-top: 30px;
+
+
+}
+
+.card-1:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.card-1{
+    transition: transform 0.5s ease;
+}
+.p-3{
+    font-size: 13px;
+    color: white;
+    font-family: "Roboto Mono", monospace;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.h1-3{
+    color: white;
+    font-size: 22px;
+    font-weight: lighter;
+    font-family: "Roboto Mono", monospace;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.img-9{
+    width:339px;
+    height: 168px;
+    margin-left: 20px;
+    margin-top: 30px;
+
+
+}
+.img-10{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.card-2:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.card-2{
+    transition: transform 0.5s ease;
+}
+.img-11{
+    margin-top: 30px;
+    margin-left: 20px;
+    
+}
+.p-4{
+    font-size: 13px;
+    color: white;
+    font-family: "Roboto Mono", monospace;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.h1-4{
+    color: white;
+    font-size: 22px;
+    font-weight: lighter;
+    font-family: "Roboto Mono", monospace;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.img-12{
+    width:339px;
+    height: 168px;
+    margin-left: 20px;
+    margin-top: 30px;
+
+
+}
+.img-13{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.card-3:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.card-3{
+    transition: transform 0.5s ease;
+}
+.img-14{
+    position: absolute;
+    margin-top: 1670px;
+    margin-left: 150px;
+}
+.img-15{
+    position: absolute;
+    margin-top: 1900px;
+    width: 1465px;
+    height: 520px;
+}
+.img-16{
+    position: absolute;
+    margin-top: 1950px;
+    margin-left: 50px;
+}
+.h1-5{
+    font-size: 32px;
+    color: black;
+    font-family: "Roboto Mono", monospace;
+    position: absolute;
+    margin-top: 1980px;
+    margin-left: 620px;
+    
+}
+.p-5{
+    font-size: 16px;
+    color: black;
+    position: absolute;
+    font-family: "Roboto Mono", monospace;
+    margin-top: 2100px;
+    margin-left: 620px;
+
+}
+.h4-3{
+font-size: 20px;
+color: black;
+position: absolute;
+font-family: "Roboto Mono", monospace;
+margin-left: 620px;
+margin-top: 2190px;
+
+}
+.bt-4{
+    width: Fixed (272px)px;
+    height: Hug (60px)px;
+    padding: 18px 40px 18px 40px;
+    border-radius: 50px ;
+    border: 3px solid white;
+    background-color: orange;
+    color: white;
+    font-weight: bolder;
+    margin-top: 2250px;
+    position: absolute;
+    margin-left: 620px;
+
+
+}
+.h1-6{
+    font-size: 32px;
+    color: black;
+    position: absolute;
+    margin-top: 2500px;
+    margin-left: 150px;
+    font-family: "Roboto Mono", monospace;
+}
+.img-17{
+    position: absolute;
+    margin-top: 2600px;
+    margin-left: 130px;
+}
+.div{
+    width: 344px;
+   height: 264px;
+   border: 5px solid orange;
+   margin-top: 2600px;
+   position: absolute;
+   margin-left: 1100px;
+
+}
+.h4-5{
+    font-size: 22px;
+    color: black;
+    font-family: "Roboto Mono", monospace;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.p-6{
+    font-size: 14px;
+    font-family: "Roboto Mono", monospace;
+    margin-left: 20px;
+    color: grey;
+    position: absolute;
+    margin-top: 30px;
+}
+.h1-7{
+    font-size: 32px;
+    color: black;
+    position: absolute;
+    margin-top: 3000px;
+    margin-left: 150px;
+    font-family: "Roboto Mono", monospace;
+}
+.h1-8{
+    font-size: 22px;
+    font-family: "Roboto Mono", monospace;
+    color: black;
+    position: absolute;
+    margin-top: 3300px;
+    margin-left: 150px;
+    background-color: orange;
+}
+.p-7{
+    font-size: 14px;
+    color: grey;
+    position: absolute;
+    margin-left: 150px;
+    font-family: "Roboto Mono", monospace;
+    margin-top: 3350px;
+
+}
+.rest{
+    position: absolute;
+    margin-top: 3030px;
+    margin-left: 150px;
+}
+.h1-9{
+    font-size: 22px;
+    font-family: "Roboto Mono", monospace;
+    color: black;
+    position: absolute;
+    margin-top: 3300px;
+    margin-left: 500px;
+    background-color: orange;
+}
+.p-8{
+    font-size: 14px;
+    color: grey;
+    position: absolute;
+    margin-left: 500px;
+    font-family: "Roboto Mono", monospace;
+    margin-top: 3350px;
+
+}
+.rest-2{
+    position: absolute;
+    margin-top: 3030px;
+    margin-left: 500px;
+}
+.h1-10{
+    font-size: 22px;
+    font-family: "Roboto Mono", monospace;
+    color: black;
+    position: absolute;
+    margin-top: 3300px;
+    margin-left: 850px;
+    background-color: orange;
+}
+.p-9{
+    font-size: 14px;
+    color: grey;
+    position: absolute;
+    margin-left:850px;
+    font-family: "Roboto Mono", monospace;
+    margin-top: 3350px;
+
+}
+.rest-3{
+    position: absolute;
+    margin-top: 3030px;
+    margin-left: 850px;
+}
+.h1-11{
+    font-size: 22px;
+    font-family: "Roboto Mono", monospace;
+    color: black;
+    position: absolute;
+    margin-top: 3300px;
+    margin-left: 1200px;
+    background-color: orange;
+}
+.p-10{
+    font-size: 14px;
+    color: grey;
+    position: absolute;
+    margin-left:1200px;
+    font-family: "Roboto Mono", monospace;
+    margin-top: 3350px;
+
+}
+.rest-4{
+    position: absolute;
+    margin-top: 3030px;
+    margin-left: 1200px;
+}
+.img-135{
+    margin-top: 3500px;
+    margin-left: 150px;
+}
+.ss{
+    font-size:32px ;
+    color: black;
+    position: absolute;
+    font-family: "Roboto Mono", monospace;
+   margin-top: 200px;
+   margin-left: 150px;
+
+}
+.pp{
+    font-size:14px ;
+    position: absolute;
+    font-weight: bold;
+    color: black;
+    font-family: "Roboto Mono", monospace;
+    margin-top: 270px;
+    margin-left: 150px;
+
+}
+.div-1{
+    width: 403px;
+    height: 192px;
+    background: linear-gradient(51.01deg, #FCFDFE 0%, #EBF5FF 71.42%);
+
+
+}
+
+.div-2{
+    width: 403px;
+    height: 192px;
+    background: linear-gradient(51.01deg, #FCFDFE 0%, #EBF5FF 71.42%);
+
+
+}
+
+.div-3{
+    width: 403px;
+    height: 192px;
+    background: linear-gradient(51.01deg, #FCFDFE 0%, #EBF5FF 71.42%);
+
+
+}
+.row-2{
+    display: flex;
+    margin-top: 400px;
+    margin-left: 150px;
+    gap: 20px;
+}
+
+.dv-1{
+    color: #1B83FF;
+    font-family: "Roboto Mono", monospace;
+    font-size: 60px;
+    margin-left: 20px;
+
+}
+
+.dv-2{
+    color: #1B83FF;
+    font-family: "Roboto Mono", monospace;
+    font-size: 60px;
+    margin-left: 20px;
+
+}
+
+.dv-3{
+    color: #1B83FF;
+    font-family: "Roboto Mono", monospace;
+    font-size: 60px;
+    margin-left: 20px;
+
+}
+.os-1{
+    color: #1B83FF;
+    font-family: "Roboto Mono", monospace;
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+
+.os-2{
+    color: #1B83FF;
+    font-family: "Roboto Mono", monospace;
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+
+
+.os-3{
+    color: #1B83FF;
+    font-family: "Roboto Mono", monospace;
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+.pp-1{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    margin-left: 80px;
+    margin-top: -160px;
+    font-family: "Roboto Mono", monospace;
+
+}
+.pp-2{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    margin-left: 80px;
+    margin-top: -160px;
+    font-family: "Roboto Mono", monospace;
+
+}
+.pp-3{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    margin-left: 80px;
+    margin-top: -160px;
+    font-family: "Roboto Mono", monospace;
+
+}
+.img-21{
+    position: absolute;
+   
+    height: 520px;
+    margin-top: 100px;
+}
+.cl{
+    position: absolute;
+    color: white;
+    font-family: "Roboto Mono", monospace;
+    font-size: 32px;
+    margin-left: 50px;
+    margin-top: 150px;
+    
+}
+.cs{
+   
+
+    position: absolute;
+    color: white;
+    font-family: "Roboto Mono", monospace;
+    font-size: 14px;
+    margin-top: 200px;
+    margin-left: 50px;
+    font-weight: bold;
+    
+
+}
+.Group{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 260px;
+}
+.Group-2{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 170px;
+}
+.Group-3{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 400px;
+}
+.rect{
+    position: absolute;
+    width: 1465px;
+    height: 350px;
+    margin-top: 750px;
+}
+.you{
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 50px;
+}
+.sos{
+    position: absolute;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Roboto Mono", monospace;
+    margin-top: 850px;
+    margin-left: 800px;
+}
+.frmae{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 1200px;
+}
+.frmae-2{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 1200px;
+}
+
+
+
+
+
+
